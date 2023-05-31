@@ -11,3 +11,7 @@ Execute the pip_env.sh file for creating the environment fakenews and kernal nam
 ```
 bash pip_env.sh
 ```
+
+Activate the "fakenews" kernel and run fakenews_detection.ipynb Notebook. <br>
+
+**Note:** The current notebook is incomplete. Please create a solution notebook to complete the assignment.
