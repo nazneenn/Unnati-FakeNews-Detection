@@ -11,7 +11,7 @@ Once the download is complete, extract the file and save it to the designated "d
 2. unzip News-_dataset.zip -d data/
 ```
 
-Execute the pip_env.sh file for creating the environment fakenews and kernal named "fakenews" for your project.
+Execute the pip_env.sh file for creating the environment fakenews and kernel named "fakenews" for your project.
 ```
 bash pip_env.sh
 ```
