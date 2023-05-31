@@ -1,4 +1,8 @@
 # Unnati-FakeNews-Detection
+In the DevCloud terminal, Git clone this repo.
+```
+git clone https://github.com/nazneenn/Unnati-FakeNews-Detection.git
+```
 
 Link to download dataset - https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/ <br>
 Once the download is complete, extract the file and save it to the designated "data" directory. 
